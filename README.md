@@ -23,7 +23,7 @@ I'm a data science enthusiast currently pursuing a Master of Science in Applied 
 
 - **Programming Languages:** Python, Java, C/C++, MATLAB, HTML5, CSS3, JavaScript, Swift, Haskell
 - **Frameworks & Libraries:** Pandas, NumPy, SciPy, TensorFlow, PyTorch, Keras, XGBoost, Matplotlib, Seaborn
-- **Big Data & Cloud:** Apache Spark, Hadoop, AWS, Azure, Google Cloud
+- **Big Data & Cloud:** Apache Spark, Hadoop, AWS, Google Cloud
 - **Tools:** Tableau, Power BI
 
 ## 🌱 I’m currently learning
@@ -36,6 +36,9 @@ I'm a data science enthusiast currently pursuing a Master of Science in Applied 
 ## 📈 Projects
 - **Hadoop MapReduce Emulator:** Developed an emulator to understand and optimize the MapReduce process.
 - **Music-driven Dance Generation:** Created a model for generating dance sequences based on music dynamics using deep learning.
+- **Scalable Data Systems Project:** Applied principles from DSCI 553 at USC to develop scalable systems using Apache Spark for large-scale data analysis, focusing on practical applications in data mining and machine learning.
+- **Advanced Algorithm Solutions:** Engaged in rigorous study and application of complex algorithmic techniques in CSCI-570. This included tackling problems using divide and conquer, dynamic programming, and network flow, among other methods, to enhance problem-solving and computational efficiency in practical scenarios.
+
 
 ## 📫 How to reach me:
 - **Email:** [yueyuexu99@gmail.com](mailto:yueyuexu99@gmail.com)
