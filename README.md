@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **HaoyueXU99/HaoyueXU99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
