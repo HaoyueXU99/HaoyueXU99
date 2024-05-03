@@ -39,7 +39,7 @@ I'm a data science enthusiast currently pursuing a Master of Science in Applied 
 - **Scalable Data Systems Project:** Applied principles from DSCI 553 at USC to develop scalable systems using Apache Spark for large-scale data analysis, focusing on practical applications in data mining and machine learning.
 - **Advanced Algorithm Solutions:** Engaged in rigorous study and application of complex algorithmic techniques in CSCI-570. This included tackling problems using divide and conquer, dynamic programming, and network flow, among other methods, to enhance problem-solving and computational efficiency in practical scenarios.
 - **Data Science for Business and Society:** Explored applications of data science in DSCI-599 to solve real-world problems across various domains such as healthcare, public safety, and marketing using advanced machine learning techniques.
-- **Data Science Professional Practicum (DSCI560):**
+- **Data Science Professional Practicum:**
   - **Stock Portfolio Management System:** Developed a system using the Yahoo Finance API to manage stock portfolios, implementing forecasting methods like ARIMA and LSTM for trading algorithms.
   - **Reddit Post Scraper and Analyzer:** Created tools to scrape, process, and analyze data from Reddit, employing batch processing and machine learning techniques like Doc2Vec and KMeans for content analysis.
   - **Web Data Extraction for Well-data Analysis:** Implemented a system to extract and preprocess data from web and PDF sources, integrating various data into a MySQL database for further analysis.
