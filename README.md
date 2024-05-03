@@ -50,6 +50,4 @@ I'm a data science enthusiast currently pursuing a Master of Science in Applied 
 - **Email:** [yueyuexu99@gmail.com](mailto:yueyuexu99@gmail.com)
 - **LinkedIn:** [linkedin.com/in/HaoyueXU99](https://linkedin.com/in/HaoyueXU99)
 
----
-
 Feel free to check out my repositories and don't hesitate to connect!
